@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fight Simulator</string>
+    <string name="cd_world_banner">Fight Simulator open world panoramic artwork</string>
+    <string name="cd_minimap">Interactive world minimap</string>
+    <string name="cd_missions_button">Open mission log</string>
+    <string name="cd_customize_button">Open character and graphics customization</string>
+    <string name="cd_map_button">Open full world map</string>
+    <string name="cd_attack_button">Attack</string>
+    <string name="cd_dash_button">Dash</string>
+    <string name="cd_burst_button">Elemental burst</string>
+    <string name="cd_fire_button">Fire weapon</string>
+    <string name="cd_jump_button">Jump</string>
+    <string name="cd_run_button">Toggle auto sprint</string>
+    <string name="cd_scope_button">Toggle weapon scope</string>
+    <string name="cd_reload_button">Reload weapon</string>
+    <string name="cd_medkit_button">Use medkit</string>
+    <string name="cd_weapon_switch">Switch primary weapon</string>
+    <string name="cd_settings_button">Open sensitivity and game settings</string>
+    <string name="cd_loot_button">Pick up loot</string>
+    <string name="cd_tactical_banner">Fight Simulator tactical combat artwork</string>
+    <string name="cd_interact_button">Interact</string>
+    <string name="cd_close_dialog">Close</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Fight simulator",
+  "description": "An open-world action-adventure game with free-roam exploration, dynamic missions, advanced Canvas graphics, character customization, and cloud-saved progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
